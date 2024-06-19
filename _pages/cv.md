@@ -11,54 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. in Public Archaeology, SUNY Binghamton, 2025 (expected)
+* B.A. in Anthropology and Slavic Studies, Connecticut College, 2021
+* High School Diploma, Cranford High School, 2017
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2024 - June 2024: Intern
+  * New Jersey State Museum
+  * Duties includes: Collections work
+  * Supervisor: [Dr. Gregory Lattanzi](https://scholar.google.com/citations?user=X-9KLfsAAAAJ)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2023 - December 2023: Teaching Assistant
+  * SUNY Binghamton, ANT 167 Introduction to Archaeology
+  * Duties included: Planning and running labs, Grading assignments, Structuring tests
+  * Supervisor: [Dr. Lubna Omar](https://www.binghamton.edu/anthropology/faculty/profile.html?id=lubna)
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* October 2022 - August 2023: Field Technician
+  * Richard Grubb and Associates
+  * Duties included: CRM work, Phase 1-3 projects, instructing colleagues in field methods and artifact analysis
+  * Fieldwork Coordinator: [Paul George](https://richardgrubb.com/our-staff/)
+
+* January 2022 - October 2022: Server
+  * Harvest Restaurants
+  * Duties included: Serving customers, training new waitstaff, attending corporate meetings as a representative of the restaurant
+  * Director of Operations: Claudia Castillo
+
+* June 2021 - September 2021: Intern
+  * Hunter Research, Inc.
+  * Duties included: Phase 1-3 projects, artifact processing, cataloging
+  * Supervisor: [Dr. Richard Hunter](http://www.hunterresearch.com/richard-w-hunter)
+
+* August 2017 - May 2021: Crew Member
+  * Connecticut College Arboretum
+  * Duties included: Maintenance of the natural beauty of the college's arboretum
+  * Director: [Leigh Knuttel](https://www.conncoll.edu/the-arboretum/about-us/staff/)
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* [QGIS](https://en.wikipedia.org/wiki/QGIS)
+* [ArcGIS Pro](https://en.wikipedia.org/wiki/ArcGIS_Pro)
+* Russian, Proficient
+* [Flintknapping](https://en.wikipedia.org/wiki/Knapping)
+* Fieldwork
+* Historical Research
+* Artifact Processing
+* Drone Operation
   
-Talks
+Service and Leadership
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Eagle Scout, Boy Scouts of America, 2016
